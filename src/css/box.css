@@ -1,0 +1,15 @@
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+}
+.boxContainer{
+    display: flex;
+    gap: 10px;
+    width: 500px;
+   margin-left: 36%;
+   flex-wrap: wrap;
+}
+.selected{
+    background-color: seagreen;
+}
